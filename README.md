@@ -1,2 +1,3 @@
 # hello-world
 Following directions....
+This is interesting I am learning new things and seeing what this site is all about.
